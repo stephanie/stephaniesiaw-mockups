@@ -1,6 +1,5 @@
-var express = require('express')
-var app = express()
-var data = require('./js/data');
+var express = require('express');
+var app = express();
 
 app.set('view engine', 'jade');
 
